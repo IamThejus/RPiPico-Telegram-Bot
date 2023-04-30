@@ -33,3 +33,7 @@ So we use in-built modules like:
 3- Fill the blanks like filling the API Token of Telegram Bot, Wifi Credentails  
 4- You can add many other functionality as you wish  
 5- RUN AND ENJOYYYY!!!!!!!!!!  
+
+# Versions
+
+Currently released version 1 called V1
