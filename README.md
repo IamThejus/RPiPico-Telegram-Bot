@@ -1,5 +1,5 @@
 # RPiPico-Telegram-Bot
-Simple Telegram Bot which can can run on Raspberry Pi Pico.
+Simple Telegram Bot which can can run on Raspberry Pi Pico.  
 It can be used for IOT projects.Can use OPEN AI for integrations and all!!!
 
 # About RPiPico-Telegram-Bot
@@ -7,19 +7,19 @@ A Raspberry Pi Pico Telegram bot is a small, low-cost computer board that can be
 
 # Things to have or required
 
-1- Raspberry Pi Pico W 
-2- Pc/Laptop
-3- Good Wifi or Internet Access
+1- Raspberry Pi Pico W   
+2- Pc/Laptop  
+3- Good Wifi or Internet Access  
 
 # How it works
 
-Since Pico cant store wifi credentials, we need to write the code to connect to wifi everytime we run the code.
+Since Pico cant store wifi credentials, we need to write the code to connect to wifi everytime we run the code.  
 After that the main program where its uses the Telegram API for getting and sending messaging.
 
 # Modules Used
 
 Since Pico come with pre installed Python modules called Micro Python Modules.We cant installed any other modules other than that.
-So we use in-built modules like:
+So we use in-built modules like:  
 1- urequests  
 2- time  
 3- machine  
