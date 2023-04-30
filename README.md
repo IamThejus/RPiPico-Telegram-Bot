@@ -23,3 +23,13 @@ So we use in-built modules like:
 1- urequests  
 2- time  
 3- machine  
+4- ujson  
+5- network  
+
+# How To Run
+
+1- Connect your Pico to Pc/Laptop, Open Thonny IDE connect MicroPython(Raspberry Pi Pico)  
+2- After that copy the main.py file and paste and save it there, remember to save the file as "main.py", since it can automatically without connecting to the Pc/Laptop  
+3- Fill the blanks like filling the API Token of Telegram Bot, Wifi Credentails  
+4- You can add many other functionality as you wish  
+5- RUN AND ENJOYYYY!!!!!!!!!!  
