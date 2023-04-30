@@ -20,6 +20,6 @@ After that the main program where its uses the Telegram API for getting and send
 
 Since Pico come with pre installed Python modules called Micro Python Modules.We cant installed any other modules other than that.
 So we use in-built modules like:
-1- urequests
-2- time
-3- machine
+1- urequests  
+2- time  
+3- machine  
